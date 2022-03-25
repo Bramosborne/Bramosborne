@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bramosborne
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning HBO-ICT software engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bramosborne@hotmail.nl
 
 <!---
